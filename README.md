@@ -1,2 +1,7 @@
 # ICT-Study-Group-Notebooks
-All the jupyter notebooks for study group.
+This repository contains all the [jupyter notebooks](https://jupyter.org/) for the study group.
+
+## Notebooks
+
+### Lessons:
+Lesson 2
