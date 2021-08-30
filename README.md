@@ -5,4 +5,4 @@ This repository contains all the [jupyter notebooks](https://jupyter.org/) for t
 
 ### Lessons:
 Lesson 2
-Lesson 3
+<br>Lesson 3
